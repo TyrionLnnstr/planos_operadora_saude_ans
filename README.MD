@@ -29,5 +29,5 @@ O objetivo principal é obter uma visão geral do crescimento das operadoras de 
 
 
 **more info** <br>
-> **contact:** Gustavo Santos Jose
+> **contact:** Gustavo Santos Jose <br>
 > **email:** gustavosantosjose0@gmail.com
