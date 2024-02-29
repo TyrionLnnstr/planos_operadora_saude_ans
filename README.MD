@@ -11,7 +11,7 @@ Considerações Importantes
 Dados Anuais não Empilháveis: A soma dos dados de 2021 e 2022 não representa a quantidade total de clientes, pois os dados refletem o panorama anual de cada período.
 Análise Proporcional: O foco do projeto está na análise do crescimento proporcional entre os anos, não na soma dos valores absolutos.
 
-###Objetivo
+### Objetivo
 
 O objetivo principal é obter uma visão geral do crescimento das operadoras de saúde e seus planos, considerando:
 
@@ -20,6 +20,6 @@ O objetivo principal é obter uma visão geral do crescimento das operadoras de 
 * **Grupo Assistencial:** Nível de cobertura do plano (básico, intermediário ou completo).
 * **Gênero:** Distribuição dos clientes por sexo.
 
-more info 
+**more info**
 **contact:** Gustavo Santos Jose 
 **email:** gustavosantosjose0@gmail.com
