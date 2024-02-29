@@ -20,6 +20,9 @@ O objetivo principal é obter uma visão geral do crescimento das operadoras de 
 * **Grupo Assistencial:** Nível de cobertura do plano (básico, intermediário ou completo).
 * **Gênero:** Distribuição dos clientes por sexo.
 
-**more info**
-**contact:** Gustavo Santos Jose 
-**email:** gustavosantosjose0@gmail.com
+**Próximos Passos:**
+* Análise estatística
+
+**more info** <br>
+> **contact:** Gustavo Santos Jose
+> **email:** gustavosantosjose0@gmail.com
