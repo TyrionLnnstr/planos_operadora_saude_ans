@@ -23,6 +23,11 @@ O objetivo principal é obter uma visão geral do crescimento das operadoras de 
 **Próximos Passos:**
 * Análise estatística
 
+**Dashboard**
+
+<a href="https://public.tableau.com/app/profile/gustavo.santos.jos./viz/vidas_operadora_saudeANS/SEGURADORAS"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"> </a>
+
+
 **more info** <br>
 > **contact:** Gustavo Santos Jose
 > **email:** gustavosantosjose0@gmail.com
